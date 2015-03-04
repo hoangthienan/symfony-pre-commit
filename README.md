@@ -32,7 +32,7 @@ When a developer clones the project, it just needs to:
 -- linux
 cd [project]
 rm -rf .git/hooks
-ln -s .git/hooks ../vendor/hgtan/symfony-pre-commit/hooks
+ln -s ../vendor/hgtan/symfony-pre-commit/hooks .git/hooks
 
 -- windows
 cd [project]
