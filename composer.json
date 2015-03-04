@@ -1,0 +1,19 @@
+{
+    "name": "hgtan/symfony-pre-commit",    
+    "description": "A Symfony pre-commit hook",
+    "type": "library",
+    "homepage": "https://github.com/hoangthienan/symfony-pre-commit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hoang Thien An",
+            "homepage": "https://hoangthienan.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Hgtan\\": ""            
+        }
+    }
+}
