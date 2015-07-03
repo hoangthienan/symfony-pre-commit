@@ -10,6 +10,7 @@ Checks in our pre-commit hook
 * Unit Testing check: We run around 3.000 tests right now.
 
 **INSTALLATION:**
+[![Latest Stable Version](https://poser.pugx.org/hgtan/symfony-pre-commit/v/stable.svg)](https://packagist.org/packages/hgtan/symfony-pre-commit) [![Total Downloads](https://poser.pugx.org/hgtan/symfony-pre-commit/downloads.svg)](https://packagist.org/packages/hgtan/symfony-pre-commit) [![Latest Unstable Version](https://poser.pugx.org/hgtan/symfony-pre-commit/v/unstable.svg)](https://packagist.org/packages/hgtan/symfony-pre-commit) [![License](https://poser.pugx.org/hgtan/symfony-pre-commit/license.svg)](https://packagist.org/packages/hgtan/symfony-pre-commit)
 
 This library is available on [Packagist](https://packagist.org/packages/hgtan/symfony-pre-commit). 
 The recommended way to install this library is through [Composer](http://getcomposer.org):
