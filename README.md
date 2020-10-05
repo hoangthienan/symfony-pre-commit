@@ -18,16 +18,10 @@ Checks in our pre-commit hook
 This library is available on [Packagist](https://packagist.org/packages/hgtan/symfony-pre-commit). 
 The recommended way to install this library is through [Composer](http://getcomposer.org):
 
-add hgtan/symfony-pre-commit as a composer dependency.
-
-composer.json
-```bash
-"require-dev": {
-    ...
-    "hgtan/symfony-pre-commit": "dev-master"
-}
-php composer.phar update hgtan/symfony-pre-commit
+``` bash
+composer require --dev hgtan/symfony-pre-commit:dev-master
 ```
+
 **USAGE:**
 
 When a developer clones the project, it just needs to:
